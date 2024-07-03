@@ -13,7 +13,7 @@ Hi, I'm Reuben Forman, a final-year Economcics and Mathematics student at The Un
   &nbsp;
 </div>
 
-## ⚙ Skills
+## ⚙ Skills and More
 
 ### 💻 Languages
 
