@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Hi, I'm Reuben Forman, a final-year Economcics and Mathematics student at The University of Edinburgh. I have a strong passion for Data Science and Mathematics, with a particular interest in applying these skills and my enthusiasm to anything I work on. I am eager to leverage my expertise to contribute to working on innovative and challenging solutions to all sort of problems. I am currently completing a year long internship along side my studies as a Teaching Spaces Data Intern at the University of Edinburgh, where I am working on data structures, looking at the reliability of surveys, processing images and implementing a dashboard in Django which will eventually be hosted on a University server.
+Hi, I'm Reuben Forman, a final-year Economics and Mathematics student at The University of Edinburgh. I have a strong passion for Data Science and Mathematics, with a particular interest in applying these skills and my enthusiasm to anything I work on. I am eager to leverage my expertise to contribute to working on innovative and challenging solutions to all sort of problems. I am currently completing a year long internship along side my studies as a Teaching Spaces Data Intern at the University of Edinburgh, where I am working on data structures, looking at the reliability of surveys, processing images and implementing a dashboard in Django which will eventually be hosted on a University server.
 
 ## 🌐 Social & Contact
 
